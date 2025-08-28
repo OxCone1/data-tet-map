@@ -1,0 +1,177 @@
+[
+  {
+    "name": "bukulti_garkalnes_pagasts_lv.ndjson",
+    "path": "bukulti_garkalnes_pagasts_lv.ndjson",
+    "count": 786,
+    "furthestPoints": [
+      {
+        "direction": "north",
+        "coord": [
+          24.2760185,
+          57.0336657
+        ]
+      },
+      {
+        "direction": "south",
+        "coord": [
+          24.2654692,
+          57.0095387
+        ]
+      },
+      {
+        "direction": "east",
+        "coord": [
+          24.2763293,
+          57.0330742
+        ]
+      },
+      {
+        "direction": "west",
+        "coord": [
+          24.2504337,
+          57.0198485
+        ]
+      }
+    ]
+  },
+  {
+    "name": "carnikava_carnikavas_pagasts_lv.ndjson",
+    "path": "carnikava_carnikavas_pagasts_lv.ndjson",
+    "count": 31,
+    "furthestPoints": [
+      {
+        "direction": "north",
+        "coord": [
+          24.2507716,
+          57.1287157
+        ]
+      },
+      {
+        "direction": "south",
+        "coord": [
+          24.251441,
+          57.1252911
+        ]
+      },
+      {
+        "direction": "east",
+        "coord": [
+          24.2529394,
+          57.1263495
+        ]
+      },
+      {
+        "direction": "west",
+        "coord": [
+          24.2475223,
+          57.127349
+        ]
+      }
+    ]
+  },
+  {
+    "name": "garupe_carnikavas_pagasts_lv.ndjson",
+    "path": "garupe_carnikavas_pagasts_lv.ndjson",
+    "count": 978,
+    "furthestPoints": [
+      {
+        "direction": "north",
+        "coord": [
+          24.2388817,
+          57.1271509
+        ]
+      },
+      {
+        "direction": "south",
+        "coord": [
+          24.2387027,
+          57.1144933
+        ]
+      },
+      {
+        "direction": "east",
+        "coord": [
+          24.2511946,
+          57.1212019
+        ]
+      },
+      {
+        "direction": "west",
+        "coord": [
+          24.2229506,
+          57.1171963
+        ]
+      }
+    ]
+  },
+  {
+    "name": "priedkalne_garkalnes_pagasts_lv.ndjson",
+    "path": "priedkalne_garkalnes_pagasts_lv.ndjson",
+    "count": 96,
+    "furthestPoints": [
+      {
+        "direction": "north",
+        "coord": [
+          24.2738426,
+          57.0171715
+        ]
+      },
+      {
+        "direction": "south",
+        "coord": [
+          24.2690874,
+          57.0102528
+        ]
+      },
+      {
+        "direction": "east",
+        "coord": [
+          24.2764514,
+          57.0158486
+        ]
+      },
+      {
+        "direction": "west",
+        "coord": [
+          24.2684703,
+          57.0116166
+        ]
+      }
+    ]
+  },
+  {
+    "name": "riga_lv.ndjson",
+    "path": "riga_lv.ndjson",
+    "count": 178,
+    "furthestPoints": [
+      {
+        "direction": "north",
+        "coord": [
+          24.2715019,
+          57.0100426
+        ]
+      },
+      {
+        "direction": "south",
+        "coord": [
+          24.2606352,
+          57.0028207
+        ]
+      },
+      {
+        "direction": "east",
+        "coord": [
+          24.2756898,
+          57.0072985
+        ]
+      },
+      {
+        "direction": "west",
+        "coord": [
+          24.2577878,
+          57.0033335
+        ]
+      }
+    ]
+  }
+]
